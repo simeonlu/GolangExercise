@@ -1,2 +1,2 @@
 # GolangExercise
-Exercise code snippets for the book &lt;The Go Programming Language>
+Exercise code snippets for the book of &lt;The Go Programming Language>
